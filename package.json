@@ -1,0 +1,15 @@
+{
+  "name": "cinema-crawler",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "dependencies": {
+    "crawl-e/v0.4.9": "git+ssh://git@bitbucket.org/cinepass/crawl-e.git#v0.4.9"
+  },
+  "author": "",
+  "license": "ISC"
+}
