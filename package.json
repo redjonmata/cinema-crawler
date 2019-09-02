@@ -8,6 +8,7 @@
   },
   "keywords": [],
   "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
     "crawl-e/v0.4.9": "git+ssh://git@bitbucket.org/cinepass/crawl-e.git#v0.4.9"
   },
   "author": "",
